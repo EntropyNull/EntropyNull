@@ -4,6 +4,7 @@
 
 <p>
 <img src="https://img.shields.io/static/v1?label=Program&message=Python&color=blue"/>
+<img src="https://img.shields.io/static/v1?label=Program&message=C++&color=blue"/>
 <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/EntropyNull&right_color=red" />
 </p>
 
