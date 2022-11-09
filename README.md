@@ -7,6 +7,5 @@
 <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/EntropyNull&right_color=red" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EntropyNull)](https://github.com/EntropyNull/github-readme-stats)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=EntropyNull&show_icons=true&count_private=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=EntropyNull&show_icons=true&theme=dark&count_private=true)
 ![](https://activity-graph.herokuapp.com/graph?username=EntropyNull&theme=github)
