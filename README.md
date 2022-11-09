@@ -7,6 +7,6 @@
 <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/EntropyNull&right_color=red" />
 </p>
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EntropyNull&theme=dark&layout=compact&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EntropyNull)](https://github.com/EntropyNull/github-readme-stats)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=EntropyNull&show_icons=true&theme=dark&count_private=true)
 ![](https://activity-graph.herokuapp.com/graph?username=EntropyNull&theme=github)
